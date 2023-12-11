@@ -148,4 +148,4 @@ def main(page: ft.Page):
         ft.Text("Downloaded Videos:", weight=ft.FontWeight.BOLD, size=23, font_family="sf-bold")
     )
 
-ft.app(target=main, assets_dir="assets", view=ft.WEB_BROWSER)
+ft.app(target=main)

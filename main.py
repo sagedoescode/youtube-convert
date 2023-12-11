@@ -1,5 +1,4 @@
-import flet as ft
-import pyshorteners  # pip install pyshorteners
+import flet as ft # pip install pyshorteners
 import pytube
 from moviepy.editor import *
 
